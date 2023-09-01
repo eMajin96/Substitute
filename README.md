@@ -1,2 +1,2 @@
-# Git_VTX_V0
+# Substitute
 A git Repository to build the course for VTX
